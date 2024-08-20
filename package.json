@@ -1,0 +1,35 @@
+{
+  "name": "kevcam-htmx",
+  "version": "1.0.0",
+  "description": "HTMX tutorial running",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinCamacena/htmx-tutorial.git"
+  },
+  "keywords": [
+    "htmx",
+    "node",
+    "programming",
+    "front",
+    "end",
+    "coding",
+    "javascript"
+  ],
+  "author": "Kevin Camacena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinCamacena/htmx-tutorial/issues"
+  },
+  "homepage": "https://github.com/KevinCamacena/htmx-tutorial#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "pug": "^3.0.3",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
